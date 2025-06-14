@@ -38,6 +38,14 @@ Azure Blob Storage (transformed-data container)
     - `raw-data`
     - `transformed-data`
   - Azure Data Factory (e.g., `ambi-nycTaxiADF`)
+ 
+![image](https://github.com/user-attachments/assets/6d8b2c6b-7826-4cd2-a8e7-acca5f2b13f9)
+
+![image](https://github.com/user-attachments/assets/dba9ab51-66bd-4519-b57d-081013990560)
+
+![image](https://github.com/user-attachments/assets/603da961-6447-4068-a714-63318f425c0c)
+
+  
 
 ---
 
@@ -91,6 +99,11 @@ In Azure Data Factory Studio:
 3. Click **Debug** or **Add Trigger** → **Trigger Now**
 4. Monitor status under the **Monitor** tab
 
+![image](https://github.com/user-attachments/assets/f4100395-103a-41bd-9e8a-755a1a07da47)
+
+![image](https://github.com/user-attachments/assets/bfaf18b7-7599-4010-8515-71210df335aa)
+
+
 ---
 
 ## ✅ Outputs
@@ -109,10 +122,3 @@ After a successful run, check your storage account:
 * Export run details as CSV (optional)
 
 Happy Coding!
-
----
-
-```
-
-Let me know if you want a version with screenshots, badges, or GitHub Actions integration too!
-```
