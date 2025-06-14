@@ -1,0 +1,9 @@
+# Set your subscription, just to be safe
+az account set --subscription "Azure subscription 1"
+
+# Create resource group (if not already created)
+az group create --name nyc-taxi-rg --location eastus
+
+# Create containers inside your storage account
+az storage container create --name raw-data --account-name ambinyctaxistorage
+az storage container create --name transformed-data --account-name ambinyctaxistorage
